@@ -1,2 +1,2 @@
-# SpringBootImpementation
-This repository contains multiple Spring boot projects 
+# Task Management REST API / Spring project
+
